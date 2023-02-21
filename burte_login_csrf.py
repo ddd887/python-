@@ -1,3 +1,4 @@
+#针对有token防御的网站进行穷举爆破
 #coding:utf-8
 import requests
 import re
